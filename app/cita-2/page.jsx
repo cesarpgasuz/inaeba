@@ -6,7 +6,7 @@ const CitaFamiliar = () => {
     <section className='container mx-auto'>
         <Link 
             href='/'
-            className="bg-blue-400 text-slate-100 text-center p-2 fixed top-0 w-full"
+            className="bg-blue-400 text-slate-100 text-center p-2 fixed top-0 left-0 w-full"
         ><Image
             src='back.svg'
             alt="regresar"
