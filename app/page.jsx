@@ -8,7 +8,7 @@ export default function Home() {
     <>
       <Header />
       <Prospectos />
-      <Final />
+      
       <Contacto />
     </>
   )
